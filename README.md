@@ -21,6 +21,9 @@ In this project, we addressed the challenge of classifying 96x96 RGB blood cell 
 
 A thorough and extensive explaination of all the steps and phases of our project can be found in the [report](https://github.com/emanuelegreco29/CNN-Bloodcells-Classifier/blob/1cc240759318436964ded39c08f09dc145fcc303/Johnny%20Deep%20(Learning)%20-%20HW1%20Report.pdf).
 
+## Final Grade
+**5.5/5.5**
+
 ## Team
 - **Andrea Giangrande**
 - **Marta Giliberto**
